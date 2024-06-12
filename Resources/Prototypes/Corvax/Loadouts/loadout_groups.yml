@@ -13,3 +13,18 @@
   - PsychologistSatchel
   - PsychologistDuffel
 
+# Prisoner
+- type: loadoutGroup
+  id: PrisonerHead
+  name: loadout-group-prisoner-head
+  minLimit: 0
+  loadouts:
+  - PrisonerHead
+  - PrisonerCap
+
+- type: loadoutGroup
+  id: PrisonerJumpsuit
+  name: loadout-group-prisoner-jumpsuit
+  loadouts:
+  - PrisonerJumpsuit
+  - PrisonerJumpskirt

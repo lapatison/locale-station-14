@@ -9,11 +9,11 @@
     head: ClothingHeadHatPaper
 
 - type: loadout
-  id: PrisonerHead
-  equipment: PrisonerHead
+  id: PrisonerCap
+  equipment: PrisonerCap
 
 - type: startingGear
-  id: PrisonerHead
+  id: PrisonerCap
   equipment:
     head: ClothingHeadHatOrangesoft
 
@@ -28,10 +28,10 @@
     jumpsuit: ClothingUniformJumpsuitPrisoner
 
 - type: loadout
-  id: PrisonerJumpsuit
-  equipment: PrisonerJumpsuit
+  id: PrisonerJumpskirt
+  equipment: PrisonerJumpskirt
 
 - type: startingGear
-  id: PrisonerJumpsuit
+  id: PrisonerJumpskirt
   equipment:
     jumpsuit: ClothingUniformJumpskirtPrisoner
