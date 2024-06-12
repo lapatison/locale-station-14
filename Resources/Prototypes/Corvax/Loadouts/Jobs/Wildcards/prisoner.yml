@@ -1,0 +1,37 @@
+# Head
+- type: loadout
+  id: PrisonerHead
+  equipment: PrisonerHead
+
+- type: startingGear
+  id: PrisonerHead
+  equipment:
+    head: ClothingHeadHatPaper
+
+- type: loadout
+  id: PrisonerHead
+  equipment: PrisonerHead
+
+- type: startingGear
+  id: PrisonerHead
+  equipment:
+    head: ClothingHeadHatOrangesoft
+
+# Jumpsuit
+- type: loadout
+  id: PrisonerJumpsuit
+  equipment: PrisonerJumpsuit
+
+- type: startingGear
+  id: PrisonerJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitPrisoner
+
+- type: loadout
+  id: PrisonerJumpsuit
+  equipment: PrisonerJumpsuit
+
+- type: startingGear
+  id: PrisonerJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtPrisoner

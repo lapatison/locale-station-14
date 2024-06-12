@@ -6,3 +6,12 @@
   - CommonBackpack
   - Trinkets
   - Inventory # Corvax-Loadouts
+
+- type: roleLoadout
+  id: JobPrisoner
+  groups:
+  - PrisonerHead
+  - PrisonerJumpsuit
+  - Glasses
+  - Trinkets
+  - Inventory # Corvax-Loadouts
