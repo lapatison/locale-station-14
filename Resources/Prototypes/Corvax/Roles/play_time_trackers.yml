@@ -2,7 +2,7 @@
   id: JobIAA
 
 - type: playTimeTracker
-  id: JobPilot
+  id: JobPrisoner
 
 - type: playTimeTracker
   id: JobEvent1

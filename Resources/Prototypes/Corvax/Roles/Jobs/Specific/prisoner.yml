@@ -1,0 +1,20 @@
+- type: job
+  id: Prisoner
+  name: job-name-prisoner
+  description: job-description-prisoner
+  playTimeTracker: JobPrisoner
+  requirements:
+    - !type:DepartmentTimeRequirement
+      department: Civilian
+      time: 3600 #1 hrs # Corvax-RoleTime
+  startingGear: PrisonerGear
+  icon: "JobIconPrisoner"
+  supervisors: job-supervisors-security
+  canBeAntag: false
+
+- type: startingGear
+  id: PrisonerGear
+  equipment:
+    shoes: ClothingShoesColorOrange
+    id: PrisonerIDCard
+    ears: ClothingHeadsetGrey

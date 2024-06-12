@@ -1,11 +1,11 @@
 - type: entity
-  id: SpawnPointPilot
+  id: SpawnPointPrisoner
   parent: SpawnPointJobBase
-  name: pilot
+  name: prisoner
   components:
   - type: SpawnPoint
-    job_id: Pilot
+    job_id: Prisoner
   - type: Sprite
     layers:
       - state: green
-      - state: seniorofficer
+      - state: prisoner #TODO
