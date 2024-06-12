@@ -12,6 +12,18 @@
 
 - type: entity
   parent: IDCardStandard
+  id: PilotIDCard
+  name: pilot ID card
+  components:
+    - type: Sprite
+      layers:
+        - state: default
+        - state: idpilot
+    - type: PresetIdCard
+      job: Pilot
+
+- type: entity
+  parent: IDCardStandard
   id: PrisonerIDCard
   name: prisoner ID card
   components:
